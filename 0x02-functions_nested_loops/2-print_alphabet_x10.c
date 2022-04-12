@@ -19,7 +19,7 @@ _putchar(alphabet);
 
 _putchar('\n');
 
-count++
+count++;
 }
 
 }
