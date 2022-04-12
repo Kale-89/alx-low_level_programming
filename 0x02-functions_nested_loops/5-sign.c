@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - return 0 letter not lowercase, 1 letter lowercase
+ * print_sign - return  + if  n is posetive - if n is negative 0 if n is zero
  *
  *@n: the int to print
  * Return: Always 0.
