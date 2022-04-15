@@ -7,5 +7,15 @@
  */
 int _isdigit(int num)
 {
-	return (num >= '0' && num <= '9');
+if (num >= 48 && num <= 57)
+{
+return (1);
+}
+
+else
+{
+return (0);
+}
+
+_putchar('\n');
 }
