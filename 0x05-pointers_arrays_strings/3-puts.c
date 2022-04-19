@@ -1,11 +1,11 @@
-include "main.h"
+#include "main.h"
 
 /**
- * _puts - prints a string followed by a new line..
- *
- *@str: the string to print.
- *
- */
+* _puts - prints a string followed by a new line..
+*
+*@str: the string to print.
+*
+*/
 
 void _puts(char *str)
 {
