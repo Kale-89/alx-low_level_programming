@@ -15,7 +15,7 @@ int i = 0, j = 0, k = 0;
 
 if (s1 != NULL)
 for (; s1[i]; i++)
-		;
+;
 if (s2 != NULL)
 for (; s2[j]; j++)
 ;
