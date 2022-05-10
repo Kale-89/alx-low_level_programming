@@ -2,7 +2,7 @@
 #define STRUCTS
 /**
  * struct dog - description for a pet
- * @name: pet name
+ * @name: name of pet
  * @age: pet age
  * @owner: owner
  *
